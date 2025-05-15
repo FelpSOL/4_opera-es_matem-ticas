@@ -1,0 +1,28 @@
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\AULAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\AULAS.AssemblyInfoInputs.cache
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\AULAS.AssemblyInfo.cs
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\AULAS.csproj.CoreCompileInputs.cache
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\bin\Debug\net8.0\AULAS.exe
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\bin\Debug\net8.0\AULAS.deps.json
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\bin\Debug\net8.0\AULAS.runtimeconfig.json
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\bin\Debug\net8.0\AULAS.dll
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\bin\Debug\net8.0\AULAS.pdb
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\AULAS.dll
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\refint\AULAS.dll
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\AULAS.pdb
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\AULAS.genruntimeconfig.cache
+C:\Users\felipe.solima\Desktop\AULAS\AULAS\obj\Debug\net8.0\ref\AULAS.dll
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\bin\Debug\net8.0\AULAS.exe
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\bin\Debug\net8.0\AULAS.deps.json
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\bin\Debug\net8.0\AULAS.runtimeconfig.json
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\bin\Debug\net8.0\AULAS.dll
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\bin\Debug\net8.0\AULAS.pdb
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\AULAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\AULAS.AssemblyInfoInputs.cache
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\AULAS.AssemblyInfo.cs
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\AULAS.csproj.CoreCompileInputs.cache
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\AULAS.dll
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\refint\AULAS.dll
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\AULAS.pdb
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\AULAS.genruntimeconfig.cache
+C:\Users\FELP9\Desktop\zipa tudo\Felipe\AULAS\AULAS\obj\Debug\net8.0\ref\AULAS.dll
